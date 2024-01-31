@@ -1,6 +1,8 @@
 # awesome-tech-interview-guide
 A galactic guide for mastering tech interviews
 
+da creare contributing.md per future PR di aziende che vogliono inserire il loro step tecnico
+
 
 Come prepararsi ad un colloquio tecnico?
 
