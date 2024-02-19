@@ -42,7 +42,7 @@ Prima del colloquio, valutate il materiale da utilizzare durante il colloquio te
 Se state facendo un colloquio per un linguaggio specifico, come Javascript o C, potete aspettarvi un colloquio incentrato sulle sfumature di quel linguaggio.
 Prendiamo ad esempio Javascript: potete aspettarvi domande su async/await, currying, hoisting e binding. L'intervistatore vuole assicurarsi che abbiate una comprensione approfondita di questo linguaggio specifico, poiché sarà la maggior parte del vostro lavoro. Preparatevi a queste domande leggendo i colloqui tipici in quel linguaggio e ripassando i concetti più accademici del linguaggio.
 
-**Colloquio su uno specifico frmework:**
+**Colloquio su uno specifico framework:**
 
 Molto simili ai colloqui su una lingua specifica, i colloqui sui framework pongono domande specifiche sul framework richiesto per il ruolo. Se state facendo un colloquio per un ruolo di frontend React, l'intervistatore potrebbe chiedervi di avviare rapidamente una calcolatrice funzionante o una partita a connect four.
 Inoltre, dovrete conoscere alcune delle nuove funzionalità del framework. Per restare all'esempio di React, preparatevi a rispondere a domande su hook, caricamento pigro, stato e router. Per prepararsi a queste domande, è necessario codificare molto con il framework e leggere attentamente la documentazione.
