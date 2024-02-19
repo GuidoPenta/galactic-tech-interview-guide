@@ -6,6 +6,8 @@ Se vuoi contribuire per descrivere il tuo processo di tech interview all'interno
 Let's go!
 
 
+
+
 **Colloquio su uno specifico linguaggio di programmazione:**
 
 Se state facendo un colloquio per un linguaggio specifico, come Javascript o C, potete aspettarvi un colloquio incentrato sulle sfumature di quel linguaggio.
