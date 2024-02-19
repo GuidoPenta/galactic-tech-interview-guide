@@ -1,5 +1,6 @@
 # awesome-tech-interview-guide
-A galactic guide for mastering tech interview
+
+**A galactic guide for mastering tech interview**
 
 Ciao! In questa guida galattica troverai alcune indicazioni utili su come gestire (e, speriamo per te) superare con successo un colloquio tecnico ed un elenco dei tipi di colloqui tecnici più frequenti.
 Troverai inoltre alcune testimonianze REALI di CTO e c-level aziendali che descrivono il loro processo di technical interview.
