@@ -5,7 +5,7 @@ Troverai inoltre alcune testimonianze REALI di CTO e c-level aziendali che descr
 Se vuoi contribuire per descrivere il tuo processo di tech interview all'interno della tua azienda, aspettiamo la tua PR!
 Let's go!
 
-
+# I diversi tipi di colloquio tecnico
 
 
 **Colloquio su uno specifico linguaggio di programmazione:**
