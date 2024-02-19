@@ -3,6 +3,7 @@
 Ciao! In questa guida galattica troverai alcune indicazioni utili su come gestire (e, speriamo per te) superare con successo un colloquio tecnico ed un elenco dei tipi di colloqui tecnici più frequenti.
 Troverai inoltre alcune testimonianze REALI di CTO e c-level aziendali che descrivono il loro processo di technical interview.
 Se vuoi contribuire per descrivere il tuo processo di tech interview all'interno della tua azienda, aspettiamo la tua PR!
+
 Let's go!
 
 # Come prepararsi al meglio per il colloquio tecnico
