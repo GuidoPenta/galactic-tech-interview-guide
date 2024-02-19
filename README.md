@@ -1,10 +1,11 @@
 # awesome-tech-interview-guide
-A galactic guide for mastering tech interviews
+A galactic guide for mastering tech interview
 
-da creare contributing.md per future PR di aziende che vogliono inserire il loro step tecnico
+Ciao! In questa guida galattica troverai alcune indicazioni utili su come gestire (e, speriamo per te) superare con successo un colloquio tecnico ed un elenco dei tipi di colloqui tecnici più frequenti.
+Troverai inoltre alcune testimonianze REALI di CTO e c-level aziendali che descrivono il loro processo di technical interview.
+Se vuoi contribuire per descrivere il tuo processo di tech interview all'interno della tua azienda, aspettiamo la tua PR!
+Let's go!
 
-
-Come prepararsi ad un colloquio tecnico?
 
 **Colloquio su uno specifico linguaggio di programmazione:**
 
@@ -34,7 +35,7 @@ Alcuni esempi:
 
 - Supponiamo che vi venga affidato il compito di costruire PlowNYC. Non preoccupatevi dell'hardware, ma di quali sistemi dovrete dotarvi?
 - Supponiamo che vi venga affidato il compito di costruire la Citi bike di New York: come progettereste il sistema?
-- 
+
 In genere, l'intervistatore fornisce alcune schermate da costruire e il problema di base, mentre a voi spetta il compito di progettare lo schema e gli endpoint. Si passerà anche rapidamente a domande sullo scaling e sull'infrastruttura, tra cui l'uso di loadbalancer, database leader-follower e sharding del database. Per ottenere buoni risultati, fate molte domande, discutete i compromessi tra le tecnologie e continuate a parlare. L'intervistatore cerca di capire se avete familiarità con la costruzione di un sistema scalabile e che comprendete i compromessi tra le scelte tecnologiche.
 
 **Take home project**
