@@ -44,6 +44,13 @@ In genere, l'intervistatore fornisce alcune schermate da costruire e il problema
 A volte vi verrà assegnato un problema più grande come compito da svolgere a casa. Un tipico compito da svolgere a casa potrebbe essere: ospitare un servizio di url-shortener con link in scadenza. L'intervistatore vuole vedervi realizzare codice di alta qualità in un modo non limitato nel tempo. 
 
 
+# Le aziende raccontano i loro iter di colloquio tecnico
 
 
-**Descrizione di un iter di colloquio tecnico da 4-5 aziende che trovo io**
+**Enrico Maria Cestari, CTO @Jointly:**
+In Jointly il percorso di recruiting Tech è fondato sulla trasparenza: il primo colloquio di una figura tecnica avviene sempre direttamente con il CTO e vengono messe in chiaro le possibili aspettative a livello di range salariale e modalità di lavoro.
+In questo primo step il CTO racconta innanzitutto quelli che sono i valori dell'azienda e si assicura che il candidato abbia compreso cosa aspettarsi - l'idea è quella di arrivare ad avere un'idea reciproca sul fit a livello valoriale.
+Allo stesso tempo vengono approfonditi gli approcci con cui il Team Tech lavora nel quotidiano insieme al Team Prodotto, e ci si confronta sui punti di vista e culturali (e.g., Agilità, pratiche di Software Engineering)- per il Team Tech di Jointly è molto importante che le Persone possano lavorare su un terreno comune e condiviso, con spirito di confronto costruttivo e di miglioramento continuo.
+
+A valle di questo primo colloquio, se si percepisce il fit e se si ipotizzano possibilitò di lavorare insieme, vengono organizzati uno o più passaggi tecnici verticali con le figure tecniche più senior del team. Questo serve anche a valutare nel modo più corretto possibile la seniority delle Persone candidate in relazione al team in cui si troveranno a lavorare.
+Per ultimo c'è il passaggio con HR, nel quale vengono validate le percezioni valoriali e il fit a livello di cultura aziendale. Se anche questo passaggio trova il consenso di entrambi, si procede all'offerta.
