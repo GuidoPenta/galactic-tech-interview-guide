@@ -1,4 +1,4 @@
-# awesome-tech-interview-guide
+# Guida galattica al colloquio tecnico - Galactic guide for tech interviews
 
 **A galactic guide for mastering tech interview**
 
