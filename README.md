@@ -27,7 +27,7 @@ Mentre vi esercitate a rispondere a domande su tutti i tipi di scenari, rivedete
 
 **4. Preparatevi a fare domande**
 
-Oltre alle conoscenze e alle competenze dimostrabili, è importante saper comunicare con le persone in modo professionale. Parlare del proprio lavoro, fornire risposte esaurienti e arrivare al colloquio preparati a fare domande può fare una ENORME differenza per andare avanti nel processo di selezione.
+Oltre alle conoscenze e alle competenze dimostrabili, è importante saper comunicare con le persone in modo professionale. Parlare del proprio lavoro, fornire risposte esaustive e arrivare al colloquio preparati a fare domande può fare una ENORME differenza per andare avanti nel processo di selezione.
 Per prepararvi al meglio al colloquio, preparate alcune domande che volete porre all'intervistatore. Prendete un po' di tempo per esaminare l'azienda e la descrizione del lavoro prima del colloquio e annotate tutte le domande che vi vengono in mente. Ricordate che è consuetudine che i candidati tengano le loro domande per la fine del colloquio.
 
 **5. Preparatevi il terreno**
@@ -40,12 +40,13 @@ Prima del colloquio, valutate il materiale da utilizzare durante il colloquio te
 **1- Colloquio su uno specifico linguaggio di programmazione:**
 
 Se state facendo un colloquio per un linguaggio specifico, come Javascript o C, potete aspettarvi un colloquio incentrato sulle sfumature di quel linguaggio.
-Prendiamo ad esempio Javascript: potete aspettarvi domande su async/await, currying, hoisting e binding. L'intervistatore vuole assicurarsi che abbiate una comprensione approfondita di questo linguaggio specifico, poiché sarà la maggior parte del vostro lavoro. Preparatevi a queste domande leggendo i colloqui tipici in quel linguaggio e ripassando i concetti più accademici del linguaggio.
+Prendiamo ad esempio Javascript: potete aspettarvi domande su async/await, currying, hoisting e binding. L'intervistatore vuole assicurarsi che abbiate una comprensione approfondita di questo linguaggio specifico, poiché sarà la maggior parte del vostro lavoro. Preparatevi a queste domande leggendo i colloqui tipici in quel linguaggio e ripassate i concetti più accademici del linguaggio.
 
 **2- Colloquio su uno specifico framework:**
 
-Molto simili ai colloqui su una lingua specifica, i colloqui sui framework pongono domande specifiche sul framework richiesto per il ruolo. Se state facendo un colloquio per un ruolo di frontend React, l'intervistatore potrebbe chiedervi di avviare rapidamente una calcolatrice funzionante o una partita a connect four.
-Inoltre, dovrete conoscere alcune delle nuove funzionalità del framework. Per restare all'esempio di React, preparatevi a rispondere a domande su hook, caricamento pigro, stato e router. Per prepararsi a queste domande, è necessario codificare molto con il framework e leggere attentamente la documentazione.
+Molto simili ai colloqui su un linguaggio specifico, i colloqui sui framework pongono domande specifiche sul framework richiesto per il ruolo. Se state facendo un colloquio per un ruolo di frontend React, l'intervistatore potrebbe chiedervi come poter creare una piccola applicazione, in live coding oppure solamente parlando di tutti i passaggi che fareste.
+Inoltre, dovrete conoscere alcune delle nuove funzionalità del framework. Per restare all'esempio di React, preparatevi a rispondere a domande su hook, lazy loading, stato e router. Per prepararsi a queste domande, è necessario utilizzare molto il framework e leggere attentamente la documentazione.
+NB: Ricordatevi sempre che ci possono essere domande sul linguaggio di programmazione: è molto comune chiedere Javascript e/o Typescript assieme a React, oppure chiedere Php e non solamente Laravel.
 
 **3- Pair programming**
 
@@ -56,7 +57,7 @@ Questo tipo di colloquio si svolge quando vi viene assegnato un problema da svol
 - Osservate questo bug nel codice, cerchiamo di trovarne l'origine e di risolverlo insieme.
 - Infine, potreste dover rifattorizzare un pezzo di codice con un file di test funzionante.
 
-L'intervistatore vuole vedere come si ragiona sui problemi e come si codifica un codice di qualità. Potrete scegliere tra alcuni linguaggi, ma sia voi che l'intervistatore dovrete conoscere il linguaggio. Il modo per avere successo in questi colloqui è mantenere la voce e continuare a provare soluzioni e ad andare avanti.
+L'intervistatore vuole vedere come si ragiona sui problemi e come si crea un codice di qualità. Potrete scegliere tra alcuni linguaggi, ma sia voi che l'intervistatore dovrete conoscere il linguaggio. Il modo per avere successo in questi colloqui è spiegare ad alta voce il vostro ragionamento e continuare a provare soluzioni e ad andare avanti.
 
 **4- Colloquio su Design System:**
 
@@ -70,7 +71,9 @@ In genere, l'intervistatore fornisce alcune schermate da costruire e il problema
 
 **5- Take home project**
 
-A volte vi verrà assegnato un problema più grande come compito da svolgere a casa. Un tipico compito da svolgere a casa potrebbe essere: ospitare un servizio di url-shortener con link in scadenza. L'intervistatore vuole vedervi realizzare codice di alta qualità in un modo non limitato nel tempo. 
+A volte vi verrà assegnato un problema più grande come compito da svolgere a casa. Un tipico compito da svolgere a casa potrebbe essere: ospitare un servizio di url-shortener con link in scadenza oppure creare una piccola web app che prende (o posta) i dati da un'api fornita da loro. 
+L'intervistatore vuole vedervi realizzare codice di alta qualità in un modo non limitato nel tempo. 
+Consiglio: fate le cose semplici e non strafate, rischiate di perdere il focus del progetto solamente per impressionare l'intervistatore. 
 
 
 # Le aziende raccontano i loro iter di colloquio tecnico
