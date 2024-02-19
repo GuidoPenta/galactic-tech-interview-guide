@@ -8,10 +8,12 @@ Let's go!
 # Come prepararsi al meglio per il colloquio tecnico
 
 **1) Considerate gli strumenti e le competenze necessarie per il ruolo**
+
 Pensate ai requisiti di base del lavoro: è fondamentale esaminare la descrizione del lavoro per determinare ciò che è necessario studiare! Ciò può includere il lavoro con le strutture di dati, la comprensione degli algoritmi, la codifica in un linguaggio specifico o l'utilizzo di strumenti di business intelligence.
 Una solida comprensione delle nozioni di base può mettervi in una buona posizione per rispondere alle domande del colloquio. Potete creare uno schema di ciò che potete studiare o rinfrescare le vostre conoscenze concentrandovi sui principi di base richiesti per il ruolo tecnico.
 
 **2) Studiare!**
+
 Dopo aver capito su cosa lavorare, potete iniziare a selezionare i materiali che vi aiuteranno ad avere più successo. Le risorse a disposizione possono essere:
 - Libri: La lettura di libri su argomenti come la codifica o gli stili di gestione può aiutarvi ad aumentare le vostre conoscenze e a fornire risposte sicure ed esaurienti durante il colloquio.
 - Corsi online: Esaminare i corsi online può essere utile per l'applicazione pratica delle competenze tecniche.
@@ -19,14 +21,17 @@ Dopo aver capito su cosa lavorare, potete iniziare a selezionare i materiali che
 - Communities: il potere delle communities è ENORME. Sfruttatele per farvi dare utilissimi consigli riguardo la preparazione al colloquio, i tool necessari, le domande più probabili in relazione al ruolo, e così via.
 
 **3. Esercitatevi**
+
 Per prepararsi agli elementi pratici di un colloquio di lavoro, come take home assignment o la risoluzione di problemi in live coding, è possibile esercitarsi ad esempio pensando ad alta voc. Può essere utile durante questo processo in quanto non solo è un buon modo per rimanere impegnati mentre risolvete problemi complessi, ma è anche importante per gli intervistatori conoscere il vostro processo di pensiero.
 Mentre vi esercitate a rispondere a domande su tutti i tipi di scenari, rivedete le domande generali sulle competenze e sui comportamenti che è probabile che vi vengano rivolte durante un colloquio.
 
 **4. Preparatevi a fare domande**
+
 Oltre alle conoscenze e alle competenze dimostrabili, è importante saper comunicare con le persone in modo professionale. Parlare del proprio lavoro, fornire risposte esaurienti e arrivare al colloquio preparati a fare domande può fare una ENORME differenza per andare avanti nel processo di selezione.
 Per prepararvi al meglio al colloquio, preparate alcune domande che volete porre all'intervistatore. Prendete un po' di tempo per esaminare l'azienda e la descrizione del lavoro prima del colloquio e annotate tutte le domande che vi vengono in mente. Ricordate che è consuetudine che i candidati tengano le loro domande per la fine del colloquio.
 
 **5. Preparatevi il terreno**
+
 Prima del colloquio, valutate il materiale da utilizzare durante il colloquio tecnico. Tool specifici, IDE, carta e penna, un notepad o altro materiale utile: preparate l'ambiente di lavoro al meglio per farvi trovare pronti e professionali in vista del colloquio. Se non siete sicuri di cosa potrebbe servire, chiedete all'azienda se dovrete utilizzare tool specifici.
 
 
