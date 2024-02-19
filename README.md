@@ -26,7 +26,7 @@ Mentre vi esercitate a rispondere a domande su tutti i tipi di scenari, rivedete
 Oltre alle conoscenze e alle competenze dimostrabili, è importante saper comunicare con le persone in modo professionale. Parlare del proprio lavoro, fornire risposte esaurienti e arrivare al colloquio preparati a fare domande può fare una ENORME differenza per andare avanti nel processo di selezione.
 Per prepararvi al meglio al colloquio, preparate alcune domande che volete porre all'intervistatore. Prendete un po' di tempo per esaminare l'azienda e la descrizione del lavoro prima del colloquio e annotate tutte le domande che vi vengono in mente. Ricordate che è consuetudine che i candidati tengano le loro domande per la fine del colloquio.
 
-**6. Preparatevi il terreno**
+**5. Preparatevi il terreno**
 Prima del colloquio, valutate il materiale da utilizzare durante il colloquio tecnico. Tool specifici, IDE, carta e penna, un notepad o altro materiale utile: preparate l'ambiente di lavoro al meglio per farvi trovare pronti e professionali in vista del colloquio. Se non siete sicuri di cosa potrebbe servire, chiedete all'azienda se dovrete utilizzare tool specifici.
 
 
