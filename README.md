@@ -7,7 +7,7 @@ Let's go!
 
 # Come prepararsi al meglio per il colloquio tecnico
 
-**1) Considerate gli strumenti e le competenze necessarie per il ruolo**
+1. Considerate gli strumenti e le competenze necessarie per il ruolo
 
 Pensate ai requisiti di base del lavoro: è fondamentale esaminare la descrizione del lavoro per determinare ciò che è necessario studiare! Ciò può includere il lavoro con le strutture di dati, la comprensione degli algoritmi, la codifica in un linguaggio specifico o l'utilizzo di strumenti di business intelligence.
 Una solida comprensione delle nozioni di base può mettervi in una buona posizione per rispondere alle domande del colloquio. Potete creare uno schema di ciò che potete studiare o rinfrescare le vostre conoscenze concentrandovi sui principi di base richiesti per il ruolo tecnico.
