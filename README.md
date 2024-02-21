@@ -75,6 +75,14 @@ Let's go!
    L'intervistatore vuole vedervi realizzare codice di alta qualità in un modo non limitato nel tempo. 
    Consiglio: fate le cose semplici e non strafate, rischiate di perdere il focus del progetto solamente per impressionare l'intervistatore. 
 
+6. Il colloquio tecnico che non lo è.
+   Arrivi al tuo colloquio tecnico tutto preparato. Sai tutto.
+   Ti arriva però una controparte che tecnica non è. Possono esserci diversi motivi: la persona che doveva essere presente non è disponibile al momento; il tecnico lo è, ma di un'altra tecnologia; il "tecnico" di turno è il capo. Non ha importanza. Come moduli la tua presentazione?
+   Il primo passo è capire come ragiona la persona. Viene da esperienze di waterfall? È completamente a digiuno di tutto? È un commerciale? Capire chi si ha davanti è fondamentale. Fare domande è anche utile per prendere tempo e decidere gli step successivi:
+   - ripassate i contorni del problema, i vincoli e le tecnologie, questo trasmette l'idea di essere persone ordinate e evitate magari assunzioni errate
+   - quando avete individuato una soluzione esponetela logicamente, magari in pseudo-code elencando pro e contro (scelgo il linguaggio X perché... uso questo algoritmo perché...)
+   - a questo punto potete procedere direttamente con il codice.
+   Questo tipo di flusso funziona su due livelli: il primo è quello logico funzionale (il codice funziona, le scelte sono logiche); il secondo è quello relazionale, infatti il vostro interlocutore vi valuta sulla base di euristiche e non di dati freddi (bastasse il codice che funziona sarebbe tutto più semplice), prendere il controllo del flusso di ragionamento e saper esporre il proprio pensiero diventa fondamentale nel trasmettere competenza.
 
 # Le aziende raccontano i loro iter di colloquio tecnico
 
