@@ -76,7 +76,7 @@ Let's go!
    Consiglio: fate le cose semplici e non strafate, rischiate di perdere il focus del progetto solamente per impressionare l'intervistatore. 
 
 6. Il colloquio tecnico che non lo è.
-.
+
    Arrivi al tuo colloquio tecnico tutto preparato. Sai tutto.
    Ti arriva però una controparte che tecnica non è. Possono esserci diversi motivi: la persona che doveva essere presente non è disponibile al momento; il tecnico lo è, ma di un'altra tecnologia; il "tecnico" di turno è il capo. Non ha importanza. Come moduli la tua presentazione?
    Il primo passo è capire come ragiona la persona. Viene da esperienze di waterfall? È completamente a digiuno di tutto? È un commerciale? Capire chi si ha davanti è fondamentale. Fare domande è anche utile per prendere tempo e decidere gli step successivi:
