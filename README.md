@@ -59,21 +59,21 @@ Let's go!
 
    L'intervistatore vuole vedere come si ragiona sui problemi e come si crea un codice di qualità. Potrete scegliere tra alcuni linguaggi, ma sia voi che l'intervistatore dovrete conoscere il linguaggio. Il modo per avere successo in questi colloqui è spiegare ad alta voce il vostro ragionamento e continuare a provare soluzioni e ad andare avanti.
 
-4. Colloquio su Design System:
+4. Colloquio su system design:
 
    Questo è un altro tipo di colloquio su cui c'è molta letteratura. Questo tipo di colloqui è riservato soprattutto alle figure di backend e diventa sempre più importante man mano che si sale di livello. 
    Alcuni esempi:
 
    - Supponiamo che vi venga affidato il compito di costruire PlowNYC. Non preoccupatevi dell'hardware, ma di quali sistemi dovrete dotarvi?
-   - Supponiamo che vi venga affidato il compito di costruire la Citi bike di New York: come progettereste il sistema?
+   - Supponiamo che vi venga affidato il compito di costruire la Citi Bike di New York: come progettereste il sistema?
 
-   In genere, l'intervistatore fornisce alcune schermate da costruire e il problema di base, mentre a voi spetta il compito di progettare lo schema e gli endpoint. Si passerà anche rapidamente a domande sullo scaling e sull'infrastruttura, tra cui l'uso di loadbalancer, database leader-follower e sharding del database. Per ottenere buoni risultati, fate molte domande, discutete i compromessi tra le tecnologie e continuate a parlare. L'intervistatore cerca di capire se avete familiarità con la costruzione di un sistema scalabile e che comprendete i compromessi tra le scelte tecnologiche.
+   In genere, l'intervistatore fornisce alcune schermate da costruire e il problema di base, mentre a voi spetta il compito di progettare lo schema e gli endpoint. Si passerà anche rapidamente a domande sullo scaling e sull'infrastruttura, tra cui l'uso di load balancer, database leader-follower e sharding del database. Per ottenere buoni risultati, fate molte domande, discutete i compromessi tra le tecnologie e continuate a parlare. L'intervistatore cerca di capire se avete familiarità con la costruzione di un sistema scalabile e che comprendete i compromessi tra le scelte tecnologiche.
 
-5. Take home project
+5. Take-home project
 
-   A volte vi verrà assegnato un problema più grande come compito da svolgere a casa. Un tipico compito da svolgere a casa potrebbe essere: ospitare un servizio di url-shortener con link in scadenza oppure creare una piccola web app che prende (o posta) i dati da un'api fornita da loro. 
-   L'intervistatore vuole vedervi realizzare codice di alta qualità in un modo non limitato nel tempo. 
-   Consiglio: fate le cose semplici e non strafate, rischiate di perdere il focus del progetto solamente per impressionare l'intervistatore. 
+   A volte vi verrà assegnato un problema più grande come compito da svolgere a casa. Un tipico compito da svolgere a casa potrebbe essere: ospitare un servizio di url-shortener con link in scadenza oppure creare una piccola web app che prende (o posta) i dati da un'api fornita da loro.
+   L'intervistatore vuole vedervi realizzare codice di alta qualità in un periodo di tempo più lungo, che può essere da qualche ora a qualche giorno.
+   Consiglio: fate le cose semplici e non strafate, o rischiate di perdere il focus del progetto solamente per impressionare l'intervistatore.
 
 6. Il colloquio tecnico che non lo è.
 
@@ -83,7 +83,7 @@ Let's go!
    - ripassate i contorni del problema, i vincoli e le tecnologie, questo trasmette l'idea di essere persone ordinate e evitate magari assunzioni errate
    - quando avete individuato una soluzione esponetela logicamente, magari in pseudo-code elencando pro e contro (scelgo il linguaggio X perché... uso questo algoritmo perché...)
    - a questo punto potete procedere direttamente con il codice.
-     
+
    Questo tipo di flusso funziona su due livelli: il primo è quello logico funzionale (il codice funziona, le scelte sono logiche); il secondo è quello relazionale, infatti il vostro interlocutore vi valuta sulla base di euristiche e non di dati freddi (bastasse il codice che funziona sarebbe tutto più semplice), prendere il controllo del flusso di ragionamento e saper esporre il proprio pensiero diventa fondamentale nel trasmettere competenza.
 
 # Le aziende raccontano i loro iter di colloquio tecnico
