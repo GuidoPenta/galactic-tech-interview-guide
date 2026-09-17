@@ -15,7 +15,7 @@ Let's go!
 2. Studiare!
 
    Dopo aver capito su cosa lavorare, potete iniziare a selezionare i materiali che vi aiuteranno ad avere più successo. Le risorse a disposizione possono essere:
-   - Libri: La lettura di libri su argomenti come la codifica o gli stili di gestione può aiutarvi ad aumentare le vostre conoscenze e a fornire risposte sicure ed esaurienti durante il colloquio.
+   - Libri: La lettura di libri su argomenti come la codifica o gli stili di gestione può aiutarvi ad aumentare le vostre conoscenze e a fornire risposte sicure ed esaurienti durante il colloquio. Per un ripasso strutturato di TypeScript è disponibile anche [The Concise TypeScript Book (edizione italiana)](https://gibbok.github.io/typescript-book/it-it/), una guida gratuita e open source.
    - Corsi online: Esaminare i corsi online può essere utile per l'applicazione pratica delle competenze tecniche.
    - Pubblicazioni digitali: Le pubblicazioni online possono aiutarvi ad ampliare la vostra base di conoscenze, ma anche a tenervi al corrente delle tendenze tecnologiche che possono essere applicate al vostro colloquio.
    - Communities: il potere delle communities è ENORME. Sfruttatele per farvi dare utilissimi consigli riguardo la preparazione al colloquio, i tool necessari, le domande più probabili in relazione al ruolo, e così via.
